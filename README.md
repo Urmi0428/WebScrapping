@@ -1,4 +1,4 @@
-# WebScrapping: Amazon Search for particular topic of books
+# WebScrapping: Amazon Search for particular item
 Web scrapping the amazon website data and analyze the data using Pandas and numpy
 
 This project performs web analysis on Amazon website using Python, BeautifulSoup, and Pandas. 
