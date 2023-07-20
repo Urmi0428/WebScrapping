@@ -13,6 +13,5 @@ The project can be divided into the following sections:
    
 3. **Data Cleaning**:Data for price, rating, review and description is get thorugh removing space and get by particular html tag 
    
-6. **Data Analysis**: Various analyses are performed on  data. The plot Price range VS rating to get an idea that is the high rated books are affordable or not.
-another analysis is for particular topics covered by number of books. It shows that most of books covered sql itself. But 37.5% includes python as well and the analytics is coverd by  8.3% of books.
+6. **Data Analysis**: Various analyses are performed on  data. The plot Price range VS rating to get an idea that is the high rated books are affordable or not.Bar plot shows that high rated books are affordable and falls under range of $15- $20.Another analysis is for particular topics covered by number of books. Pie chart shows that most of books covered sql itself. But 37.5% includes python as well and the analytics is coverd by  8.3% of books.
 
